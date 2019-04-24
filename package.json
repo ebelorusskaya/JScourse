@@ -1,0 +1,22 @@
+{
+  "name": "jscourse",
+  "version": "1.0.0",
+  "description": "Project for Mocha test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebelorusskaya/JScourse.git"
+  },
+  "author": "KB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ebelorusskaya/JScourse/issues"
+  },
+  "homepage": "https://github.com/ebelorusskaya/JScourse#readme",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
+}
